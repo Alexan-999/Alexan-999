@@ -18,3 +18,11 @@ Here are some ideas to get you started:
 -->
 
 ![coding](./assets/coding.jpg)
+
+```JS
+const Aboutme = {
+  info : "Passionate about the evolution of technology, I aim to grow as a Front-End Developer,
+  crafting user-friendly and visually engaging UI/UX experiences while exploring new tools.
+ "
+}
+```
