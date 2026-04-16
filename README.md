@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there 👋 my name is Kenneth Ek Poot
+
+## Full Stack Developer in Guadalajara, Jalisco, México
 
 <!--
 **Alexan-999/Alexan-999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
