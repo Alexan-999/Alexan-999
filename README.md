@@ -1,5 +1,9 @@
 # Hi there 👋 my name is Kenneth Ek Poot
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Crafting%20interfaces%20users%20don’t%20notice…%20but%20love;Turning%20ideas%20into%20clean,%20intuitive%20UI/UX;Front-end%20focused.%20Detail-driven.%20Always%20evolving%20🚀&center=true&width=500&height=45&color=00C2FF">
+</p>
+
 ## Full Stack Developer in Guadalajara, Jalisco, México
 
 <!--
@@ -22,7 +26,5 @@ Here are some ideas to get you started:
 ```JS
 const Aboutme = {
   info : "Passionate about the evolution of technology, I aim to grow as a Front-End Developer,
-  crafting user-friendly and visually engaging UI/UX experiences while exploring new tools.
- "
-}
+  crafting user-friendly and visually engaging UI/UX experiences while exploring new tools. " }
 ```
