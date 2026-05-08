@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-## Currently building my [Porfolio](https://my-portfolio-omega-five-74.vercel.app/ ) 
+Building my [Porfolio](https://my-portfolio-omega-five-74.vercel.app/ ) 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Pixel-perfect%20by%20intention;UX%20first,%20always;Less%20noise,%20more%20clarity&font=Fira%20Code&center=true&width=440&height=45&color=A970FF">
